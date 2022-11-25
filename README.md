@@ -19,7 +19,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
 </style>
 <link rel="stylesheet" href="style.css">
-
+<link href="favicon.ico" rel="icon" type="image/x-icon" />
 <body>
     <header class="nav">
         <img src="logo.png" alt="logo">
